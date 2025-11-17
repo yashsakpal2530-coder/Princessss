@@ -29,9 +29,11 @@ I want you to know that you are the most precious person. I am ready to handle a
     subheading: "I Hope You'll Like It",
     chooseTrackHint: "Choose a track to start vibing ✨",
     continueButton: "Continue to Next ✨",
-    tracks: [
-      { id: 3, title: "Dil ka Jo Haal hai", caption: "Tu Kaare Dil Bekarar 💞" }
-    ]
+    tracks: [ 
+{ id: 1, title: "Dil Cheeze Tujhe Dedi", caption: "You own this heart — dedicated to you 💞" }, 
+{ id: 2, title: "If the world was ending", caption: "Even if the world ends, I'd still find you 🤍" }, 
+{ id: 3, title: "Dil ka Jo Haal hai", caption: "Tu Kaare Dil Bekarar 💞" } 
+] 
   },
 
   cards: {
